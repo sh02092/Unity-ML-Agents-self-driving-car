@@ -12,9 +12,13 @@ Construction of 3D digital twin environment for vehicle using Unity ML-Agents an
 1. Anaconda3: Download and installation instructions here:
 https://www.anaconda.com/products/individual
 
+    <img src="https://github.com/sh02092/unity-ml-agents-self-driving-car/blob/6b52e03eb65ce652ae60d398122be055b4f9c487/README_image/Anaconda3.png"></img>
+
 2. Nvidia driver: Download by setting it to your GPU specifications.
 https://www.nvidia.com/Download/index.aspx?lang=kr
 
+    <img src="https://github.com/sh02092/unity-ml-agents-self-driving-car/blob/6b52e03eb65ce652ae60d398122be055b4f9c487/README_image/Nvidia%20driver.png"></img>
+    
 3. cuDNN, CUDA, Python version: Check the version here:
 https://www.tensorflow.org/install/source_windows
 
