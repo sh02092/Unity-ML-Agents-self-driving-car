@@ -18,7 +18,7 @@ https://www.anaconda.com/products/individual
 https://www.nvidia.com/Download/index.aspx?lang=kr
 
     <img src="https://github.com/sh02092/unity-ml-agents-self-driving-car/blob/6b52e03eb65ce652ae60d398122be055b4f9c487/README_image/Nvidia%20driver.png"></img>
-    
+
 3. cuDNN, CUDA, Python version: Check the version here:
 https://www.tensorflow.org/install/source_windows
 
@@ -52,7 +52,7 @@ https://www.tensorflow.org/install/source_windows
 7. Run DQN_220523.py script
 
 ## Preview
-<img width="80%" src="https://github.com/sh02092/unity-ml-agents-self-driving-car/blob/573e31974e8a4fd5c41a95e7e6b37abdc8bc7dc8/README_image/Self-driving-car.gif"/>
+    <img width="80%" src="https://github.com/sh02092/unity-ml-agents-self-driving-car/blob/573e31974e8a4fd5c41a95e7e6b37abdc8bc7dc8/README_image/Self-driving-car.gif"/>
 
 ## Reference
 * [Unity-ML-Agents](https://github.com/Unity-Technologies/ml-agents/blob/release_19_docs/docs/Readme.md)
